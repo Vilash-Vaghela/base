@@ -6,7 +6,8 @@ commit #4commit #21commit #21
 commit #22
 commit #22
 commit #5
-commit #6
+commit #6commit #21
+commit #22
 commit #7
 commit #8
 commit #9
